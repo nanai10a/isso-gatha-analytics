@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/node
-# Edit at https://www.toptal.com/developers/gitignore?templates=node
+# Created by https://www.toptal.com/developers/gitignore/api/node,purescript
+# Edit at https://www.toptal.com/developers/gitignore?templates=node,purescript
 
 ### Node ###
 # Logs
@@ -141,4 +141,14 @@ dist
 # SvelteKit build / generate output
 .svelte-kit
 
-# End of https://www.toptal.com/developers/gitignore/api/node
+### PureScript ###
+# Dependencies
+.psci_modules
+.spago
+node_modules
+
+# Generated files
+.psci
+output
+
+# End of https://www.toptal.com/developers/gitignore/api/node,purescript
