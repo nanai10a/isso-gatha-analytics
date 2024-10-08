@@ -3,6 +3,7 @@ package:
   dependencies:
     - console
     - effect
+    - js-promise-aff
     - prelude
   test:
     main: Test.Main
