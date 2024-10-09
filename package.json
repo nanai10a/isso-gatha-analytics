@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "chokidar-cli": "^3.0.0",
     "purescript": "^0.15.15",
     "spago": "^0.93.40",
     "wrangler": "^3.80.2"
