@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "wrangler dev ./glue/index.js & chokidar './src/**' -c 'spago build'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
