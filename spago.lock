@@ -89,7 +89,7 @@
     },
     "package_set": {
       "address": {
-        "registry": "60.3.0"
+        "registry": "60.7.0"
       },
       "compiler": ">=0.15.15 <0.16.0",
       "content": {
@@ -147,7 +147,7 @@
         "chameleon-transformers": "1.0.0",
         "channel": "1.0.0",
         "checked-exceptions": "3.1.1",
-        "choku": "1.0.1",
+        "choku": "1.0.2",
         "classless": "0.1.1",
         "classless-arbitrary": "0.1.1",
         "classless-decode-json": "0.1.1",
@@ -304,6 +304,7 @@
         "js-promise-aff": "1.0.0",
         "js-timers": "6.1.0",
         "js-uri": "3.1.0",
+        "jsdom": "1.0.0",
         "json": "1.1.0",
         "json-codecs": "5.0.0",
         "justifill": "0.5.0",
@@ -423,7 +424,7 @@
         "priority-queue": "0.1.2",
         "profunctor": "6.0.1",
         "profunctor-lenses": "8.0.0",
-        "protobuf": "4.3.0",
+        "protobuf": "4.4.0",
         "psa-utils": "8.0.0",
         "psci-support": "6.0.0",
         "punycode": "1.0.0",
@@ -493,10 +494,10 @@
         "soundfonts": "4.1.0",
         "sparse-matrices": "2.0.1",
         "sparse-polynomials": "3.0.1",
-        "spec": "8.0.0",
-        "spec-discovery": "8.3.0",
+        "spec": "8.1.0",
+        "spec-discovery": "8.4.0",
         "spec-mocha": "5.1.1",
-        "spec-node": "0.0.2",
+        "spec-node": "0.0.3",
         "spec-quickcheck": "5.0.2",
         "spec-reporter-xunit": "0.7.1",
         "splitmix": "2.1.0",
@@ -596,6 +597,7 @@
         "yoga-json": "5.1.0",
         "yoga-om": "0.1.0",
         "yoga-postgres": "6.0.0",
+        "yoga-subtlecrypto": "0.1.0",
         "yoga-tree": "1.0.0",
         "z3": "0.0.2",
         "zipperarray": "2.0.0"
