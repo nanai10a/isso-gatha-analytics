@@ -1,10 +1,15 @@
 package:
   name: isso-gatha-analytics
   dependencies:
+    - arraybuffer-types
     - console
     - effect
     - js-promise-aff
+    - nullable
     - prelude
+    - web-fetch
+    - web-streams
+    - web-xhr
   test:
     main: Test.Main
     dependencies: []
