@@ -154,3 +154,4 @@ output
 # End of https://www.toptal.com/developers/gitignore/api/node,purescript
 
 .wrangler
+.psc-ide-port
